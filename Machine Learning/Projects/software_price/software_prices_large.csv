@@ -1,0 +1,121 @@
+Software Name,Category,Platform,Features,User Ratings,Company Reputation,Release Year,Subscription Type,Market Demand Index,Competitor Pricing,Final Price
+Software_1,Communication,Windows,31,3.9,9,2019,Monthly,96,215,372.46
+Software_2,Analytics,Linux,21,4.5,8,2023,Monthly,98,658,578.31
+Software_3,Productivity,Web,58,3.4,7,2020,One-time,93,440,503.46
+Software_4,Accounting,Linux,65,5.0,6,2020,Yearly,94,628,641.12
+Software_5,Gaming,Windows,23,3.1,7,2018,Yearly,50,473,343.3
+Software_6,Graphics,Windows,19,3.3,8,2022,Yearly,57,47,149.36
+Software_7,Graphics,Windows,67,3.7,6,2022,Monthly,66,37,230.76
+Software_8,Development,Mac,60,3.0,6,2021,One-time,67,283,334.46
+Software_9,Entertainment,Mac,60,3.0,10,2019,One-time,75,797,650.5
+Software_10,Video Editing,Windows,50,4.1,7,2020,One-time,73,73,257.25
+Software_11,Video Editing,Windows,24,3.3,8,2017,One-time,70,545,435.46
+Software_12,Productivity,Linux,52,3.6,10,2024,Yearly,85,901,732.02
+Software_13,Communication,Linux,53,3.9,8,2019,One-time,74,798,633.43
+Software_14,Graphics,Mac,20,3.0,9,2019,One-time,85,486,436.8
+Software_15,Communication,Web,49,4.3,8,2021,Monthly,77,86,286.94
+Software_16,Video Editing,Windows,13,3.5,6,2015,One-time,99,26,198.33
+Software_17,Education,Linux,33,4.4,8,2015,Yearly,96,940,739.57
+Software_18,Communication,Linux,36,4.4,7,2018,One-time,55,762,532.8
+Software_19,Entertainment,Windows,43,3.1,10,2023,Yearly,55,440,383.68
+Software_20,Communication,Web,65,3.2,5,2024,Monthly,82,299,389.6
+Software_21,Development,Windows,18,4.4,9,2023,One-time,100,457,485.3
+Software_22,Development,Linux,66,3.4,9,2024,One-time,85,582,586.8
+Software_23,Gaming,Windows,47,4.6,8,2023,One-time,66,206,313.67
+Software_24,Security,Linux,16,4.5,6,2015,One-time,80,703,526.22
+Software_25,Gaming,Web,20,4.9,7,2018,One-time,79,193,293.68
+Software_26,Analytics,Mac,21,4.6,10,2017,Yearly,75,401,411.1
+Software_27,Productivity,Web,61,3.3,6,2021,One-time,92,834,690.79
+Software_28,Education,Windows,33,4.7,7,2020,Monthly,80,359,400.3
+Software_29,Gaming,Windows,37,3.5,5,2015,Yearly,67,519,415.48
+Software_30,Design,Linux,49,3.6,6,2020,Yearly,67,200,284.92
+Software_31,Video Editing,Windows,57,3.8,9,2018,Yearly,70,697,583.7
+Software_32,Accounting,Web,39,3.9,10,2020,Yearly,52,354,336.74
+Software_33,Video Editing,Windows,32,4.9,6,2021,Yearly,73,610,499.47
+Software_34,Video Editing,Windows,33,4.1,8,2020,Yearly,97,564,547.39
+Software_35,Communication,Web,24,3.5,8,2019,Monthly,73,726,536.45
+Software_36,Graphics,Web,34,3.2,10,2020,Yearly,75,697,557.3
+Software_37,Design,Mac,50,3.6,5,2022,Yearly,51,759,515.36
+Software_38,Development,Linux,49,4.3,9,2017,Yearly,94,398,508.07
+Software_39,Development,Web,13,4.7,5,2024,Monthly,58,703,469.82
+Software_40,Gaming,Web,42,3.3,5,2021,Yearly,85,140,274.0
+Software_41,Graphics,Linux,45,4.7,7,2024,Yearly,80,857,672.34
+Software_42,Analytics,Windows,60,3.9,5,2016,Monthly,93,296,424.77
+Software_43,Entertainment,Windows,16,5.0,5,2015,Monthly,80,915,632.22
+Software_44,Productivity,Linux,30,4.9,6,2019,Monthly,53,224,250.65
+Software_45,Education,Mac,21,3.5,7,2015,One-time,93,540,473.11
+Software_46,Productivity,Linux,60,4.8,5,2020,One-time,68,651,542.56
+Software_47,Security,Mac,45,3.2,6,2023,One-time,61,869,591.15
+Software_48,Gaming,Web,43,4.8,5,2021,Monthly,74,974,693.02
+Software_49,Productivity,Windows,66,4.2,8,2018,Yearly,71,149,326.69
+Software_50,Communication,Windows,26,4.1,6,2017,Yearly,73,623,481.44
+Software_51,Accounting,Windows,14,4.0,7,2021,One-time,96,588,499.06
+Software_52,Entertainment,Mac,64,3.7,9,2019,Monthly,88,101,358.85
+Software_53,Design,Linux,12,3.2,6,2019,Monthly,67,743,490.49
+Software_54,Education,Web,38,5.0,5,2016,One-time,54,750,521.45
+Software_55,Productivity,Linux,34,4.8,8,2017,Monthly,82,562,521.1
+Software_56,Development,Web,65,3.0,7,2021,Monthly,70,22,229.4
+Software_57,Graphics,Mac,24,3.9,9,2015,Yearly,73,751,564.72
+Software_58,Accounting,Mac,22,4.5,7,2019,One-time,69,496,416.91
+Software_59,Accounting,Mac,64,3.9,7,2017,Monthly,94,694,658.33
+Software_60,Development,Windows,54,4.0,7,2017,One-time,96,800,697.22
+Software_61,Accounting,Windows,21,3.7,7,2023,Monthly,80,935,646.06
+Software_62,Communication,Mac,39,4.1,5,2018,Monthly,91,112,285.32
+Software_63,Analytics,Linux,41,4.8,9,2017,Monthly,73,656,562.77
+Software_64,Accounting,Windows,25,4.6,9,2023,Monthly,71,861,628.16
+Software_65,Accounting,Windows,56,4.5,9,2020,Yearly,98,631,658.89
+Software_66,Video Editing,Linux,11,4.7,6,2015,Monthly,52,943,581.32
+Software_67,Graphics,Web,21,3.0,8,2015,One-time,89,379,383.88
+Software_68,Gaming,Web,11,4.6,7,2023,Monthly,78,706,525.22
+Software_69,Analytics,Mac,55,3.5,6,2017,Monthly,99,804,687.12
+Software_70,Video Editing,Mac,17,3.6,5,2017,Yearly,77,881,584.64
+Software_71,Security,Web,37,4.0,8,2015,One-time,78,915,676.52
+Software_72,Video Editing,Mac,38,3.2,9,2016,One-time,81,614,530.56
+Software_73,Graphics,Windows,36,3.1,7,2015,One-time,75,76,221.6
+Software_74,Security,Web,66,3.1,9,2024,One-time,80,630,587.64
+Software_75,Design,Linux,17,3.5,7,2024,One-time,96,874,637.45
+Software_76,Security,Windows,55,4.7,5,2018,Monthly,90,371,459.82
+Software_77,Communication,Linux,59,4.9,6,2015,Yearly,94,159,390.83
+Software_78,Accounting,Linux,53,3.7,7,2020,Yearly,52,93,202.5
+Software_79,Entertainment,Linux,35,3.5,10,2024,Monthly,93,847,691.34
+Software_80,Accounting,Linux,53,4.9,7,2019,One-time,60,494,444.28
+Software_81,Video Editing,Linux,37,3.3,5,2020,Monthly,70,717,518.1
+Software_82,Communication,Windows,48,3.4,6,2015,Yearly,76,230,319.29
+Software_83,Design,Windows,40,3.6,8,2024,Yearly,50,621,449.7
+Software_84,Accounting,Linux,23,3.4,5,2023,Monthly,88,480,413.18
+Software_85,Communication,Mac,54,3.1,7,2020,Monthly,77,217,330.26
+Software_86,Communication,Linux,26,3.4,8,2017,One-time,62,93,195.3
+Software_87,Accounting,Windows,17,3.5,7,2022,One-time,73,788,546.42
+Software_88,Communication,Windows,25,4.6,8,2016,Yearly,90,970,724.76
+Software_89,Analytics,Web,40,4.3,6,2019,Yearly,94,764,636.93
+Software_90,Communication,Mac,56,4.6,10,2023,Yearly,76,414,484.25
+Software_91,Gaming,Windows,13,3.6,10,2018,Yearly,64,786,545.06
+Software_92,Communication,Mac,14,4.7,7,2016,Monthly,63,478,384.15
+Software_93,Entertainment,Windows,20,3.4,8,2022,Yearly,71,268,294.18
+Software_94,Accounting,Web,56,3.6,8,2018,One-time,80,865,685.94
+Software_95,Analytics,Windows,46,3.3,7,2022,One-time,63,736,540.37
+Software_96,Video Editing,Linux,48,3.7,6,2023,Yearly,70,598,492.2
+Software_97,Entertainment,Windows,41,3.1,6,2021,One-time,91,173,309.27
+Software_98,Design,Windows,29,4.4,9,2017,One-time,60,98,218.92
+Software_99,Entertainment,Mac,33,4.1,9,2017,One-time,64,780,572.78
+Software_100,Security,Windows,31,3.3,6,2022,Yearly,60,836,553.36
+Software_101,Security,Mac,32,3.7,5,2021,Yearly,58,747,504.35
+Software_102,Entertainment,Mac,23,4.8,7,2016,Yearly,59,311,305.6
+Software_103,Gaming,Windows,54,3.9,8,2015,Yearly,99,790,711.01
+Software_104,Development,Linux,69,4.9,9,2023,One-time,66,741,628.69
+Software_105,Gaming,Web,35,5.0,7,2018,Yearly,79,502,478.52
+Software_106,Development,Web,58,4.1,7,2024,One-time,78,822,661.85
+Software_107,Communication,Web,69,3.4,5,2017,Yearly,98,530,566.06
+Software_108,Accounting,Mac,57,4.6,7,2023,Yearly,68,36,243.22
+Software_109,Gaming,Web,63,4.0,10,2022,Monthly,63,151,306.84
+Software_110,Communication,Mac,23,3.4,6,2022,Yearly,54,964,594.75
+Software_111,Accounting,Mac,55,4.9,6,2019,Monthly,69,687,565.4
+Software_112,Communication,Linux,36,3.8,7,2018,One-time,61,366,342.58
+Software_113,Video Editing,Linux,42,3.7,8,2023,Yearly,71,575,490.28
+Software_114,Graphics,Linux,51,3.9,6,2023,Monthly,78,482,465.64
+Software_115,Gaming,Windows,47,4.8,10,2019,Yearly,90,931,778.7
+Software_116,Education,Mac,20,4.9,7,2020,Yearly,81,475,439.68
+Software_117,Gaming,Linux,43,4.4,10,2021,Yearly,60,916,655.28
+Software_118,Development,Windows,54,3.6,9,2022,One-time,66,114,270.84
+Software_119,Education,Windows,46,3.5,7,2024,Yearly,97,484,512.05
+Software_120,Analytics,Web,43,3.5,5,2024,Yearly,73,434,397.46
