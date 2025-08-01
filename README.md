@@ -19,7 +19,13 @@ Machine-Learning-Teaching/
 ├── Projects/
 │   ├── Emotion_detection/
 │   ├── customer_churn/
-│   └── mental_health/
+│   ├── mental_health/
+│   ├── movie recommendation system/
+│   ├── object detection/
+│   ├── product/
+│   ├── salary/
+│   ├── software_price/
+│   └── trade/
 ├── README.md
 └── LICENSE
 ```
@@ -30,20 +36,8 @@ Machine-Learning-Teaching/
 
 | Module              | Description                                  |
 | ------------------- | -------------------------------------------- |
-| Linear Regression   | From-scratch and scikit-learn implementation |
-| Logistic Regression | Binary classification walkthrough            |
-| Decision Tree       | Tree model basics and implementation         |
-| Random Forest       | Ensemble technique and visualization         |
-| KNN                 | Distance-based classification                |
-| Naive Bayes         | Probabilistic model implementation           |
-
----
-
-## 🧠 Learning Objectives
-
-* Understand the intuition and math behind ML algorithms
-* Implement core models using both scratch logic and `sklearn`
-* Explore how model performance varies across methods
+| Data apps           | Four data app projects                       |
+| Project             | 9 machine learning projects                  |
 
 ---
 
