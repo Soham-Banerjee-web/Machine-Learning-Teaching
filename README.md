@@ -36,7 +36,7 @@ Machine-Learning-Teaching/
 
 | Module              | Description                                  |
 | ------------------- | -------------------------------------------- |
-| Data apps           | Four data app projects                       |
+| Data apps           | 4 data app projects                          |
 | Project             | 9 machine learning projects                  |
 
 ---
